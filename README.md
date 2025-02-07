@@ -23,10 +23,10 @@ This project is a **Sensor Data Dashboard** built using **Streamlit**, a powerfu
 -   **Matplotlib/Plotly:** Data visualization
 
 ----------
-# Threshold Analysis Preview
+# KPI Preview
 ![KPI](images/Dashboard_kpi.jpeg)
 
-# KPI Preview
+# Threshold Analysis Preview
 ![ThresholdAnalysis](images/Dashboard_threshold.jpeg)
 
 ## Installation
